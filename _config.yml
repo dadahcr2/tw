@@ -4,3 +4,5 @@ google_analytics: G-SFJ80L12D6
 theme: minima
 minima:
   skin: dark
+header_pages:
+  - friends.md
