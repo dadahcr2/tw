@@ -19,6 +19,7 @@
 #### **This is a guide on how to officially join Tractor Wars**  
 {: style="text-align: center;"}  
 [![https://youtu.be/I9H-VWA4KiU](https://img.youtube.com/vi/I9H-VWA4KiU/0.jpg)](https://youtu.be/I9H-VWA4KiU)  
+{: style="text-align: center;"}  
 #### **A Tractor Wars Trailer**  
 {: style="text-align: center;"}  
 [![https://youtu.be/ubV1o2ElbJ4](https://img.youtube.com/vi/ubV1o2ElbJ4/0.jpg)](https://youtu.be/ubV1o2ElbJ4)  
