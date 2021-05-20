@@ -3,10 +3,14 @@
  
 ***
 
-##### **To compete in the tractor wars daily, make friends with**  
+#### **To compete in the tractor wars daily, make friends with**  
+{: style="text-align: center;"}  
 #### Numpty https://playhcr.com/invite?id=95Pyg5   
-##### **Results are reported on the**    
+{: style="text-align: center;"}  
+#### **Results are reported on the**    
+{: style="text-align: center;"}  
 #### Tractor Wars Discord Server https://discord.gg/ND6avWY   
+{: style="text-align: center;"}  
 [![](https://media.discordapp.net/attachments/716010700656607312/837037633422098542/Presentation1.gif)](https://sketchfab.com/3d-models/hcr2-tractor-de8ebfc9e3704da5bf60a2c242584e80)  
 {: style="text-align: center;"}  
 
@@ -21,7 +25,7 @@
  {: style="text-align: center;"}  
 ***
 
- [TW Friends](http://TWfriends.hcr2.info) - [Tractor Info](http://tractor.hcr2.info) - [Email](mailto:dadahcr2@gmail.com) | <hcr2.info>    
-{: style="text-align: center;"}{: style="text-align: center;"}  
+ [TW Friends](http://TWfriends.hcr2.info) - [Tractor Info](http://tractor.hcr2.info) - [Email](mailto:dadahcr2@gmail.com) - <hcr2.info>    
+{: style="text-align: center;"}  
 ![](https://media.discordapp.net/attachments/806343355264401478/841864986590576660/2A8C00CC-70A7-4510-8847-09C3360CA512.png?width=100&height=100)  
 {: style="text-align: center;"}  
