@@ -1,7 +1,6 @@
  ![TRACTOR WARS](https://media.discordapp.net/attachments/783423393797767189/817763628857688124/TW-logo5.png?width=559&height=559)  
  {: style="text-align: center;"}
  
-***
 
 ### **To compete in the tractor wars daily, make friends with**  
 {: style="text-align: center;"}  
@@ -14,8 +13,9 @@
 [![](https://media.discordapp.net/attachments/716010700656607312/837037633422098542/Presentation1.gif)](https://sketchfab.com/3d-models/hcr2-tractor-de8ebfc9e3704da5bf60a2c242584e80)  
 {: style="text-align: center;"}  
 
-***
-### Videos  
+
+### Videos
+{: style="text-align: center;"}  
 #### **This is a guide on how to officially join Tractor Wars**  
 {: style="text-align: center;"}  
 [![https://youtu.be/I9H-VWA4KiU](https://img.youtube.com/vi/I9H-VWA4KiU/0.jpg)](https://youtu.be/I9H-VWA4KiU)  
