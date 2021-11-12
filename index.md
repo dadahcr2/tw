@@ -4,7 +4,9 @@
 
 ### **To compete in the tractor wars daily, make friends with**  
 {: style="text-align: center;"}  
-### Numpty <https://playhcr.com/invite?id=95Pyg5>   
+#### Boodles :https://playhcr.com/invite?id=oErX7q  
+#### Linge: https://playhcr.com/invite?id=bEp9Kb  
+#### SIC: https://playhcr.com/invite?id=WrPNz8     
 {: style="text-align: center;"}  
 ### **Results are reported on the**    
 {: style="text-align: center;"}  
